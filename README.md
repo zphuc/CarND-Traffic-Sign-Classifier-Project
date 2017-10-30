@@ -14,15 +14,15 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: /home/phuc/Study/Udacity/SeftDrivingCar/Term1/Project2/CarND-Traffic-Sign-Classifier-Project/images/Bchar.png "Visualization"
-[image2]: /home/phuc/Study/Udacity/SeftDrivingCar/Term1/Project2/CarND-Traffic-Sign-Classifier-Project/images/origImg.png "Original"
-[image3]: /home/phuc/Study/Udacity/SeftDrivingCar/Term1/Project2/CarND-Traffic-Sign-Classifier-Project/images/grayImg.png "Grayscaling and normalized"
-[image15]: /home/phuc/Study/Udacity/SeftDrivingCar/Term1/Project2/CarND-Traffic-Sign-Classifier-Project/newImages/01.jpg "Traffic Sign 1"
-[image13]: /home/phuc/Study/Udacity/SeftDrivingCar/Term1/Project2/CarND-Traffic-Sign-Classifier-Project/newImages/11.jpg "Traffic Sign 2"
-[image16]: /home/phuc/Study/Udacity/SeftDrivingCar/Term1/Project2/CarND-Traffic-Sign-Classifier-Project/newImages/14.jpg "Traffic Sign 3"
-[image12]: /home/phuc/Study/Udacity/SeftDrivingCar/Term1/Project2/CarND-Traffic-Sign-Classifier-Project/newImages/22.jpg "Traffic Sign 4"
-[image14]: /home/phuc/Study/Udacity/SeftDrivingCar/Term1/Project2/CarND-Traffic-Sign-Classifier-Project/newImages/25.jpg "Traffic Sign 5"
-[image11]: /home/phuc/Study/Udacity/SeftDrivingCar/Term1/Project2/CarND-Traffic-Sign-Classifier-Project/newImages/40.jpg "Traffic Sign 6"
+[image1]: images/Bchar.png "Visualization"
+[image2]: images/origImg.png "Original"
+[image3]: images/grayImg.png "Grayscaling and normalized"
+[image15]: newImages/01.jpg "Traffic Sign 1"
+[image13]: newImages/11.jpg "Traffic Sign 2"
+[image16]: newImages/14.jpg "Traffic Sign 3"
+[image12]: newImages/22.jpg "Traffic Sign 4"
+[image14]: newImages/25.jpg "Traffic Sign 5"
+[image11]: newImages/40.jpg "Traffic Sign 6"
 
 ## Rubric Points
 Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
