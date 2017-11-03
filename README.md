@@ -116,8 +116,7 @@ I have done the following steps to optimize the hyperparameters
    * epochs        = 10
    * learning rate = 0.001  
 
-  In here, the accuracies of the validation dataset were 0.905, 0.921 and 0.948, respectively. The accuracy increased with the increasing of **d**.   
-  Then I fixed the **d** factor of 4 and went to the next step
+  In here, the accuracies of the validation dataset were 0.905, 0.921 and 0.948, respectively. The accuracy increased with the increasing of **d**.Then, I fixed the **d** factor of 4 and went to the next step
 
 * Step 2: Consider the changing of batch size
   * **dd**        = 4
