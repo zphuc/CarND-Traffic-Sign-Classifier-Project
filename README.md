@@ -177,6 +177,8 @@ After investigate the changing of **dd** factor, I found that it worked well and
 > I was also thinking to increase more the convolution layer that might get more accuracy, if the **dd** factor did not work well. It would be my further work.
 
 
+
+
 **Test a Model on New Images**
 
 ####1. Choose five German traffic signs found on the web and provide them in the report. For each image, discuss what quality or qualities might be difficult to classify.
