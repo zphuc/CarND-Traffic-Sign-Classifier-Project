@@ -167,14 +167,14 @@ I have chosen the iterative approach
 
 * How was the architecture adjusted and why was it adjusted? Typical adjustments could include choosing a different model architecture, adding or taking away layers (pooling, dropout, convolution, etc), using an activation function or changing the activation function. One common justification for adjusting an architecture would be due to overfitting or underfitting. A high accuracy on the training set but low accuracy on the validation set indicates over fitting; a low accuracy on both sets indicates under fitting.  
 
-  >It is well-known that depths of the layers are important in LeNet model. Moreover, I want to keep the structure of the original LeNet example, I decide only to change the depths of layers by the multiply factor **dd** (it is just my ideal).  
-  After investigate the changing of **dd** factor, I found that it worked well and increase effectively the accuracy (See the result of the step 1 in previous answer).
+>It is well-known that depths of the layers are important in LeNet model. Moreover, I want to keep the structure of the original LeNet example, I decide only to change the depths of layers by the multiply factor **dd** (it is just my ideal).  
+After investigate the changing of **dd** factor, I found that it worked well and increase effectively the accuracy (See the result of the step 1 in previous answer).
 
 * Which parameters were tuned? How were they adjusted and why?
-  >the **d** factor, batch size, epochs and learning rate were the parameters that I have tuned. Please see the previous answer to know how they were adjusted.
+>the **d** factor, batch size, epochs and learning rate were the parameters that I have tuned. Please see the previous answer to know how they were adjusted.
 
 * What are some of the important design choices and why were they chosen? For example, why might a convolution layer work well with this problem? How might a dropout layer help with creating a successful model?
- > I was also thinking to increase more the convolution layer that might get more accuracy, if the **dd** factor did not work well. It would be my further work.
+> I was also thinking to increase more the convolution layer that might get more accuracy, if the **dd** factor did not work well. It would be my further work.
 
 
 **Test a Model on New Images**
